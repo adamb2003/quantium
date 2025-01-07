@@ -23,7 +23,7 @@ from dash import Dash, dcc, html
 import plotly.express as px
 import pandas as pd
 
-# Initialize the Dash app
+# Initialise the Dash app
 app = Dash()
 
 # Create the line graph
