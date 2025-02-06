@@ -17,7 +17,7 @@ df = df.sort_values(by="date")
 
 
 
-#Create Dash app
+# Create Dash app
 
 from dash import Dash, dcc, html
 import plotly.express as px
